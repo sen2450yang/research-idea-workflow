@@ -1,0 +1,18 @@
+test_bundle_static_validation (__main__.ToolingTests.test_bundle_static_validation) ... ok
+test_cli_error_returns_nonzero (__main__.ToolingTests.test_cli_error_returns_nonzero) ... ok
+test_dry_run_writes_nothing (__main__.ToolingTests.test_dry_run_writes_nothing) ... ok
+test_existing_directory_is_not_modified (__main__.ToolingTests.test_existing_directory_is_not_modified) ... ok
+test_existing_file_is_not_overwritten (__main__.ToolingTests.test_existing_file_is_not_overwritten) ... ok
+test_invalid_title_or_mode_is_rejected (__main__.ToolingTests.test_invalid_title_or_mode_is_rejected) ... ok
+test_json_handles_quotes_unicode_and_backslash (__main__.ToolingTests.test_json_handles_quotes_unicode_and_backslash) ... ok
+test_missing_parent_is_rejected (__main__.ToolingTests.test_missing_parent_is_rejected) ... ok
+test_missing_reference_is_detected (__main__.ToolingTests.test_missing_reference_is_detected) ... ok
+test_missing_template_fails_before_writing (__main__.ToolingTests.test_missing_template_fails_before_writing) ... ok
+test_mode_marks_only_suggested_scope (__main__.ToolingTests.test_mode_marks_only_suggested_scope) ... ok
+test_new_project_creates_all_templates (__main__.ToolingTests.test_new_project_creates_all_templates) ... ok
+test_symlink_target_is_rejected (__main__.ToolingTests.test_symlink_target_is_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 0.021s
+
+OK

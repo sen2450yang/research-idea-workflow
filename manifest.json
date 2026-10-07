@@ -1,0 +1,146 @@
+{
+  "skill_name": "research-idea-workflow",
+  "version": "1.0.0",
+  "built_on": "2026-10-07",
+  "algorithm": "SHA-256",
+  "excludes": [
+    "manifest.json"
+  ],
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 7041,
+      "sha256": "fa539e91f2b1a7cc08d584329f270a07dc41c30142abdf145264c87f20c713db"
+    },
+    {
+      "path": "SKILL.md",
+      "bytes": 10938,
+      "sha256": "a35043c96374a1a53283dafccb016c95329bf0bea3f4e9c0e8f93fdd57fd3958"
+    },
+    {
+      "path": "VALIDATION.md",
+      "bytes": 2390,
+      "sha256": "80ee6e8fd1f2f8e61654ff1f0e2155f0e71dbc0ea8d0fb51c54ea2380453cacf"
+    },
+    {
+      "path": "agents/openai.yaml",
+      "bytes": 423,
+      "sha256": "1a81db28d5da515b3e1bcae293b0acd2033c59a026e7939cea1783698d2e2480"
+    },
+    {
+      "path": "assets/templates/decision-log.md",
+      "bytes": 653,
+      "sha256": "791b5d9279b75e077a549c6297ab557b958642b1b8ec4e81676099c6e6db722d"
+    },
+    {
+      "path": "assets/templates/evidence-ledger.md",
+      "bytes": 2608,
+      "sha256": "8ac9a8e8b284f0810151f69c31c57cfb42d744c4a5cf70b791c2a8d219fd6a98"
+    },
+    {
+      "path": "assets/templates/idea-card.md",
+      "bytes": 1623,
+      "sha256": "663a80cd48ec8e16a57dac5998bcbfb573dbcc7095762caca6918abc9ea018eb"
+    },
+    {
+      "path": "assets/templates/novelty-and-review.md",
+      "bytes": 1833,
+      "sha256": "d5a02d1a4b7a71ffbfc4ecd149ee1626f45fa3611c19b2a7cd59a6fb016e7568"
+    },
+    {
+      "path": "assets/templates/pilot-plan.md",
+      "bytes": 1885,
+      "sha256": "0608187ce439210c198891d2f58585717267ee480d2f4577bb3da15a0379424c"
+    },
+    {
+      "path": "assets/templates/project-state.json",
+      "bytes": 2278,
+      "sha256": "a432aee12c0524416189236a48dfac282808636fb145ad027cfdc97d54b21252"
+    },
+    {
+      "path": "assets/templates/report-outline.md",
+      "bytes": 1508,
+      "sha256": "7ca15e96e916048e30c5cfd4d05528cba81aba5d7502c78265c826bb2c3b39f0"
+    },
+    {
+      "path": "assets/templates/research-brief.md",
+      "bytes": 1305,
+      "sha256": "eebfcc06fb45c982eba4e5c3c860a513eee39e5133bd405fcfdf4c17438fe454"
+    },
+    {
+      "path": "assets/templates/research-protocol.md",
+      "bytes": 3291,
+      "sha256": "4032457ee6b8c53c75ef28a893d11dcdd2e8ff5f46fbe1afcd7cf41f6b4aa836"
+    },
+    {
+      "path": "evals/package-checks.json",
+      "bytes": 1090,
+      "sha256": "5c714a36c0c611912d3b8bff3d6dd46b6c6c4cefc1e09d9d6bccef03019a7d2a"
+    },
+    {
+      "path": "evals/scenarios.json",
+      "bytes": 10938,
+      "sha256": "a0b3ffddfbf890db1eaa4086d2f0c56106a38500c71c0652719bf0937a0f8ac6"
+    },
+    {
+      "path": "evals/tooling-results.txt",
+      "bytes": 1444,
+      "sha256": "f0d86f8767f18810727d00a74d2109fda01d59b6c66dbd49113b7e97af4ed111"
+    },
+    {
+      "path": "examples/usage.md",
+      "bytes": 2953,
+      "sha256": "a09b8f9d6c89da1012ce00d695ee993fd452cf96f5992825c547585d8f0f226e"
+    },
+    {
+      "path": "references/coverage-map.md",
+      "bytes": 3419,
+      "sha256": "dd8bafc6de98886c9eb924541870e4b41bc231405c9c324637919c3be216fb1b"
+    },
+    {
+      "path": "references/evidence-rules.md",
+      "bytes": 5036,
+      "sha256": "ce6f7fb41d4daad345d6eff1b0b0a6507bd51591c70d96d3245d1200ecb9fbe3"
+    },
+    {
+      "path": "references/review-rubric.md",
+      "bytes": 2826,
+      "sha256": "4ba548d3537c3ddb7c32223751a287cdad64e185a6a9715f19953ddf67b85fff"
+    },
+    {
+      "path": "references/stages-01-04.md",
+      "bytes": 5367,
+      "sha256": "2878d8a19437b89986739dbad587fcc82ca8a0f45ea9d56c2e0c1ece72e1e2df"
+    },
+    {
+      "path": "references/stages-05-08.md",
+      "bytes": 6353,
+      "sha256": "a150dd7990e8347470fa45da839a97201eabd0e5a680ca95da7e67f80fcf5893"
+    },
+    {
+      "path": "references/stages-09-10.md",
+      "bytes": 5643,
+      "sha256": "5c3aeb078263745ceff03dcb5526cd1cfd9aea279eea3c30381753d809761be2"
+    },
+    {
+      "path": "references/workflow-complete.md",
+      "bytes": 19429,
+      "sha256": "f630adafba4bcf9dd80d503c9cac4e7cd31f55569dfaf69ef955c38ce01f5894"
+    },
+    {
+      "path": "scripts/init_project.py",
+      "bytes": 5550,
+      "sha256": "0dd997046447baafd6ce0020f557de049fd7c754b3531855d4fc82dd437ef65c"
+    },
+    {
+      "path": "scripts/test_tooling.py",
+      "bytes": 5561,
+      "sha256": "d141354758b760b680bc024f24a1594c67ae067802ed77443f2c4aedd4e41209"
+    },
+    {
+      "path": "scripts/validate_skill.py",
+      "bytes": 9529,
+      "sha256": "f95fcd8d8f68ae677f3a7c8621fa19c594190df2dac7ebcf0a35c0d5951de2f5"
+    }
+  ]
+}

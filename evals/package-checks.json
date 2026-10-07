@@ -1,0 +1,38 @@
+{
+  "status": "passed",
+  "environment": {
+    "location": "conversation_cloud_container",
+    "platform": "linux",
+    "python": "3.13.5",
+    "yaml_parser": "PyYAML 6.0.3"
+  },
+  "static_checks": {
+    "ok": true,
+    "errors": [],
+    "checks": [
+      "必需文件和模板存在",
+      "UTF-8、JSON及Python语法",
+      "入口元数据、目录名及长度",
+      "本地Markdown文件链接（27处）",
+      "十阶段章节、阶段产出及迭代说明",
+      "任务状态与未执行标记",
+      "行为场景完整性（不代表已经执行）",
+      "显示元数据和默认调用提示"
+    ],
+    "scope": "Static bundle checks only; no live model or scientific validation."
+  },
+  "yaml_full_parse": "passed for SKILL.md frontmatter and agents/openai.yaml",
+  "tooling_tests": {
+    "run": 13,
+    "passed": 13,
+    "failed": 0,
+    "log": "tooling-results.txt"
+  },
+  "target_model_evals": {
+    "cases": 20,
+    "executed": 0,
+    "status": "not_run_on_target_model"
+  },
+  "local_installation": "not_performed",
+  "scientific_validation": "not_performed"
+}

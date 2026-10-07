@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0",
+  "project_title": "{{PROJECT_TITLE}}",
+  "created_at": "{{CREATED_AT}}",
+  "mode": "full",
+  "scope_note": "",
+  "current_stage": null,
+  "search_cutoff_date": null,
+  "source_files": [],
+  "key_assumptions": [],
+  "decisions": [],
+  "execution_boundary": "Planning only until the user authorizes specific execution.",
+  "stages": [
+    {
+      "id": 1,
+      "name": "研究背景、目标与边界",
+      "status": "not_started",
+      "outputs": [],
+      "evidence_refs": [],
+      "notes": ""
+    },
+    {
+      "id": 2,
+      "name": "领域研究图谱",
+      "status": "not_started",
+      "outputs": [],
+      "evidence_refs": [],
+      "notes": ""
+    },
+    {
+      "id": 3,
+      "name": "跨文献比较",
+      "status": "not_started",
+      "outputs": [],
+      "evidence_refs": [],
+      "notes": ""
+    },
+    {
+      "id": 4,
+      "name": "具体研究空白",
+      "status": "not_started",
+      "outputs": [],
+      "evidence_refs": [],
+      "notes": ""
+    },
+    {
+      "id": 5,
+      "name": "原创构思与竞争解释",
+      "status": "not_started",
+      "outputs": [],
+      "evidence_refs": [],
+      "notes": ""
+    },
+    {
+      "id": 6,
+      "name": "创新性核查",
+      "status": "not_started",
+      "outputs": [],
+      "evidence_refs": [],
+      "notes": ""
+    },
+    {
+      "id": 7,
+      "name": "多视角论证",
+      "status": "not_started",
+      "outputs": [],
+      "evidence_refs": [],
+      "notes": ""
+    },
+    {
+      "id": 8,
+      "name": "审稿式压力测试",
+      "status": "not_started",
+      "outputs": [],
+      "evidence_refs": [],
+      "notes": ""
+    },
+    {
+      "id": 9,
+      "name": "先导验证",
+      "status": "not_started",
+      "outputs": [],
+      "evidence_refs": [],
+      "notes": ""
+    },
+    {
+      "id": 10,
+      "name": "完整研究方案与迭代",
+      "status": "not_started",
+      "outputs": [],
+      "evidence_refs": [],
+      "notes": ""
+    }
+  ],
+  "allowed_status_values": [
+    "not_started",
+    "planned",
+    "in_progress",
+    "provisional",
+    "completed",
+    "blocked",
+    "out_of_scope"
+  ],
+  "validation_note": "A drafted plan is not executed research; completed requires actual in-scope work and result checks."
+}

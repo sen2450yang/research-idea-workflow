@@ -1,0 +1,6 @@
+interface:
+  display_name: "科研创新与研究设计"
+  short_description: "从领域与证据比较到原创构思、创新性核查、先导验证及完整研究方案"
+  default_prompt: "使用 $research-idea-workflow，结合我已提供的研究背景和材料，先梳理证据与科学问题，再形成并核查有价值的研究构想，按本次任务范围推进。"
+policy:
+  allow_implicit_invocation: true
